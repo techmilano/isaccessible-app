@@ -1,0 +1,11 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"Techmilano\\AccessibleAppDatabase\\" : "src"
+		}
+	},
+	"name" : "techmilano/AccessibleAppDatabase",
+	"require" : {
+		"php" : ">=7.4"
+	}
+}
